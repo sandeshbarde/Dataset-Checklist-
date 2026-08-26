@@ -1,0 +1,31 @@
+term,full_name,category,definition,typical_units
+ROP,Rate of Penetration,Drilling Mechanics,"The speed at which the drill bit deepens the borehole, typically measured in feet per hour (ft/hr) or meters per hour (m/hr).","ft/hr, m/hr"
+WOB,Weight on Bit,Drilling Mechanics,The amount of downward force exerted on the drill bit by the drill collars/drill string to crush and cut rock formations.,"klbs, tonnes, kN"
+RPM,Revolutions Per Minute,Drilling Mechanics,Rotational speed of the drill string or mud motor powering the drill bit.,rev/min
+SPP,Standpipe Pressure,Hydraulics,Total pressure required to circulate drilling fluid down through the drill string and up the annulus.,"psi, bar"
+BOP,Blowout Preventer,Well Control,High-pressure safety valve assembly installed at the wellhead to seal the wellbore and prevent uncontrolled fluid escape (blowout).,"psi rating (e.g. 5k, 10k, 15k)"
+LCM,Lost Circulation Material,Mud Engineering,"Solid materials (nutshells, mica, fibers, calcium carbonate) added to drilling mud to seal fractures or cavernous formations causing mud loss.","ppb (lb/bbl), kg/m3"
+ECD,Equivalent Circulating Density,Hydraulics,"The effective density exerted by circulating mud against formation walls, including hydrostatic pressure plus annular friction pressure drop.","ppg (lb/gal), sg (specific gravity)"
+NPT,Non-Productive Time,Operations,"Unscheduled rig downtime caused by equipment failures, stuck pipe, weather delays, or wellbore instability issues.","hours, days, %"
+Kick,Wellbore Kick / Influx,Well Control,"An unplanned flow of formation fluids (gas, oil, or water) entering the wellbore when formation pore pressure exceeds hydrostatic pressure.","bbl gain, psi shut-in"
+Stuck Pipe,Stuck Drillstring / Differential/Mechanical Sticking,Drilling Incident,"A condition where the drill string cannot be pulled, rotated, or lowered due to differential pressure sticking, key seating, or hole collapse.","overpull lbs, hours"
+TVD,True Vertical Depth,Survey / Geodesy,The vertical distance from a surface reference point (e.g. RKB) to a point in the wellbore trajectory.,"ft, m"
+MD,Measured Depth,Survey / Geodesy,The total length of the wellbore path as measured along the actual drilled hole.,"ft, m"
+DLS,Dogleg Severity,Directional Drilling,A measure of the curvature or total change in inclination and azimuth along a normalized course length (typically 100 ft or 30 m).,"deg/100ft, deg/30m"
+BHA,Bottom Hole Assembly,Drill String,"The lower portion of the drill string consisting of the bit, bit sub, mud motor/RSS, MWD/LWD tools, stabilizers, and drill collars.","outer diameter (in), length (ft)"
+MWD,Measurement While Drilling,Logging / Telemetry,"Real-time downhole sensor package transmitting directional surveys (inclination, azimuth, toolface) to surface via mud pulse telemetry.","degrees, gravity/magnetic fields"
+LWD,Logging While Drilling,Formation Evaluation,"Formation evaluation sensors (gamma ray, resistivity, density, neutron porosity) integrated into the BHA for real-time petrophysical data.","API GR, ohm-m, g/cm3, pu"
+LOT,Leak-Off Test,Geomechanics,A pressure test performed just below a newly set casing shoe to determine fracture gradient and maximum allowable mud weight.,"ppg equivalent, psi"
+FIT,Formation Integrity Test,Geomechanics,A limit pressure test to verify the casing shoe and formation can withstand a specified maximum planned mud weight without fracturing.,"ppg equivalent, psi"
+TOC,Top of Cement,Cementing,The uppermost depth level reached by cured cement in the casing-borehole annulus.,ft MD / TVD
+Mud Weight,Drilling Fluid Density,Mud Engineering,The density of the drilling fluid used to provide hydrostatic balance against formation pore fluid pressure and stabilize borehole walls.,"ppg, pcf, sg"
+PV,Plastic Viscosity,Rheology,"The slope of the shear stress versus shear rate curve above yield point, representing mechanical friction between mud solids and liquids.","cP (centipoise), mPa·s"
+YP,Yield Point,Rheology,"The initial resistance of drilling fluid to flow, representing electrochemical attractive forces among particles in the fluid under dynamic conditions.","lb/100ft2, Pa"
+PDC,Polycrystalline Diamond Compact,Drill Bit,"A cutting element composed of a diamond table bonded to a tungsten carbide substrate, widely used on modern fixed-cutter rotary bits.","cutter size mm (e.g. 13mm, 16mm, 19mm)"
+KOP,Kick-Off Point,Directional Drilling,The measured depth at which a vertical wellbore is deliberately deflected into a directional trajectory.,"ft MD, m MD"
+Shoe Track,Casing Shoe Track,Casing & Cementing,"The length of casing between the guide shoe and the float collar, holding contaminated tail cement to prevent weak cement at shoe.",ft (typically 30-80 ft)
+Annular Velocity,Annular Flow Velocity,Hydraulics,The upward speed of drilling mud traveling through the space between the drill string and the borehole wall or casing.,"ft/min, m/min"
+Differential Sticking,Differential Pressure Sticking,Drilling Incident,Sticking of the drill string against a permeable formation caused by the overbalance pressure of the mud column holding the pipe into filter cake.,"psi overbalance, contact area sq in"
+Pack-off,Wellbore Pack-Off,Drilling Incident,"Accumulation of drill cuttings or cavings around the drill string that chokes the annulus, causing sudden standpipe pressure spikes and lost returns.","SPP spike psi, flow loss %"
+Twist-Off,Drill Pipe / BHA Twist-Off,Drilling Incident,"Mechanical parting or catastrophic shear failure of the drill string due to excessive torque, fatigue, or cyclic stress.","ft-lbs torque, parting depth ft"
+H2S,Hydrogen Sulfide Gas,Safety / Drilling Hazard,"A highly toxic, flammable, and corrosive gas (sour gas) encountered in certain carbonate and clastic hydrocarbon formations.",ppm (parts per million)

@@ -1,0 +1,11 @@
+{
+  "report_no": "DDR-004",
+  "well_name": "Volve 15/9-F-12",
+  "date": "2007-12-04",
+  "current_depth_md_m": 2780.0,
+  "daily_progress_m": 140.0,
+  "drilling_fluid": "Carbo-Sea OBM 1.42 sg",
+  "bha_summary": "8-1/2\" Rotary Steerable System (PowerDrive X5) + SonicScope + PeriScope",
+  "operations_summary": "Drilled 8-1/2\" section from 2640 m to 2780 m MD geosteering into Draupne Formation. Inc built from 58 deg to 72 deg with az 142 deg. ROP: 14 m/hr. Background gas increased to 2.1%.",
+  "remarks": "Geosteering team active; navigating 2 m below top reservoir sand."
+}

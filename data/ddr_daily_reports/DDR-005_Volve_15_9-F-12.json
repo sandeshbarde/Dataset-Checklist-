@@ -1,0 +1,11 @@
+{
+  "report_no": "DDR-005",
+  "well_name": "Volve 15/9-F-12",
+  "date": "2007-12-05",
+  "current_depth_md_m": 2910.0,
+  "daily_progress_m": 130.0,
+  "drilling_fluid": "Carbo-Sea OBM 1.42 sg",
+  "bha_summary": "8-1/2\" RSS + LWD Suite",
+  "operations_summary": "Drilled from 2780 m to 2910 m MD into Hugin reservoir sand. At 2890 m MD, encountered partial mud loss of 25 m3/hr. Reduced pump rate, spotted 10 m3 CaCO3 LCM pill. Losses cured. Reached planned TD for section at 2910 m MD (84.5 deg inc).",
+  "remarks": "Excellent reservoir quality logged: porosity 22-26%, resistivity 120 ohm-m."
+}

@@ -1,0 +1,219 @@
+{
+  "glossary_metadata": {
+    "version": "2.0",
+    "total_terms": 30,
+    "domain": "Upstream Oil & Gas Drilling"
+  },
+  "terms": [
+    {
+      "term": "ROP",
+      "full_name": "Rate of Penetration",
+      "category": "Drilling Mechanics",
+      "definition": "The speed at which the drill bit deepens the borehole, typically measured in feet per hour (ft/hr) or meters per hour (m/hr).",
+      "typical_units": "ft/hr, m/hr"
+    },
+    {
+      "term": "WOB",
+      "full_name": "Weight on Bit",
+      "category": "Drilling Mechanics",
+      "definition": "The amount of downward force exerted on the drill bit by the drill collars/drill string to crush and cut rock formations.",
+      "typical_units": "klbs, tonnes, kN"
+    },
+    {
+      "term": "RPM",
+      "full_name": "Revolutions Per Minute",
+      "category": "Drilling Mechanics",
+      "definition": "Rotational speed of the drill string or mud motor powering the drill bit.",
+      "typical_units": "rev/min"
+    },
+    {
+      "term": "SPP",
+      "full_name": "Standpipe Pressure",
+      "category": "Hydraulics",
+      "definition": "Total pressure required to circulate drilling fluid down through the drill string and up the annulus.",
+      "typical_units": "psi, bar"
+    },
+    {
+      "term": "BOP",
+      "full_name": "Blowout Preventer",
+      "category": "Well Control",
+      "definition": "High-pressure safety valve assembly installed at the wellhead to seal the wellbore and prevent uncontrolled fluid escape (blowout).",
+      "typical_units": "psi rating (e.g. 5k, 10k, 15k)"
+    },
+    {
+      "term": "LCM",
+      "full_name": "Lost Circulation Material",
+      "category": "Mud Engineering",
+      "definition": "Solid materials (nutshells, mica, fibers, calcium carbonate) added to drilling mud to seal fractures or cavernous formations causing mud loss.",
+      "typical_units": "ppb (lb/bbl), kg/m3"
+    },
+    {
+      "term": "ECD",
+      "full_name": "Equivalent Circulating Density",
+      "category": "Hydraulics",
+      "definition": "The effective density exerted by circulating mud against formation walls, including hydrostatic pressure plus annular friction pressure drop.",
+      "typical_units": "ppg (lb/gal), sg (specific gravity)"
+    },
+    {
+      "term": "NPT",
+      "full_name": "Non-Productive Time",
+      "category": "Operations",
+      "definition": "Unscheduled rig downtime caused by equipment failures, stuck pipe, weather delays, or wellbore instability issues.",
+      "typical_units": "hours, days, %"
+    },
+    {
+      "term": "Kick",
+      "full_name": "Wellbore Kick / Influx",
+      "category": "Well Control",
+      "definition": "An unplanned flow of formation fluids (gas, oil, or water) entering the wellbore when formation pore pressure exceeds hydrostatic pressure.",
+      "typical_units": "bbl gain, psi shut-in"
+    },
+    {
+      "term": "Stuck Pipe",
+      "full_name": "Stuck Drillstring / Differential/Mechanical Sticking",
+      "category": "Drilling Incident",
+      "definition": "A condition where the drill string cannot be pulled, rotated, or lowered due to differential pressure sticking, key seating, or hole collapse.",
+      "typical_units": "overpull lbs, hours"
+    },
+    {
+      "term": "TVD",
+      "full_name": "True Vertical Depth",
+      "category": "Survey / Geodesy",
+      "definition": "The vertical distance from a surface reference point (e.g. RKB) to a point in the wellbore trajectory.",
+      "typical_units": "ft, m"
+    },
+    {
+      "term": "MD",
+      "full_name": "Measured Depth",
+      "category": "Survey / Geodesy",
+      "definition": "The total length of the wellbore path as measured along the actual drilled hole.",
+      "typical_units": "ft, m"
+    },
+    {
+      "term": "DLS",
+      "full_name": "Dogleg Severity",
+      "category": "Directional Drilling",
+      "definition": "A measure of the curvature or total change in inclination and azimuth along a normalized course length (typically 100 ft or 30 m).",
+      "typical_units": "deg/100ft, deg/30m"
+    },
+    {
+      "term": "BHA",
+      "full_name": "Bottom Hole Assembly",
+      "category": "Drill String",
+      "definition": "The lower portion of the drill string consisting of the bit, bit sub, mud motor/RSS, MWD/LWD tools, stabilizers, and drill collars.",
+      "typical_units": "outer diameter (in), length (ft)"
+    },
+    {
+      "term": "MWD",
+      "full_name": "Measurement While Drilling",
+      "category": "Logging / Telemetry",
+      "definition": "Real-time downhole sensor package transmitting directional surveys (inclination, azimuth, toolface) to surface via mud pulse telemetry.",
+      "typical_units": "degrees, gravity/magnetic fields"
+    },
+    {
+      "term": "LWD",
+      "full_name": "Logging While Drilling",
+      "category": "Formation Evaluation",
+      "definition": "Formation evaluation sensors (gamma ray, resistivity, density, neutron porosity) integrated into the BHA for real-time petrophysical data.",
+      "typical_units": "API GR, ohm-m, g/cm3, pu"
+    },
+    {
+      "term": "LOT",
+      "full_name": "Leak-Off Test",
+      "category": "Geomechanics",
+      "definition": "A pressure test performed just below a newly set casing shoe to determine fracture gradient and maximum allowable mud weight.",
+      "typical_units": "ppg equivalent, psi"
+    },
+    {
+      "term": "FIT",
+      "full_name": "Formation Integrity Test",
+      "category": "Geomechanics",
+      "definition": "A limit pressure test to verify the casing shoe and formation can withstand a specified maximum planned mud weight without fracturing.",
+      "typical_units": "ppg equivalent, psi"
+    },
+    {
+      "term": "TOC",
+      "full_name": "Top of Cement",
+      "category": "Cementing",
+      "definition": "The uppermost depth level reached by cured cement in the casing-borehole annulus.",
+      "typical_units": "ft MD / TVD"
+    },
+    {
+      "term": "Mud Weight",
+      "full_name": "Drilling Fluid Density",
+      "category": "Mud Engineering",
+      "definition": "The density of the drilling fluid used to provide hydrostatic balance against formation pore fluid pressure and stabilize borehole walls.",
+      "typical_units": "ppg, pcf, sg"
+    },
+    {
+      "term": "PV",
+      "full_name": "Plastic Viscosity",
+      "category": "Rheology",
+      "definition": "The slope of the shear stress versus shear rate curve above yield point, representing mechanical friction between mud solids and liquids.",
+      "typical_units": "cP (centipoise), mPa\u00b7s"
+    },
+    {
+      "term": "YP",
+      "full_name": "Yield Point",
+      "category": "Rheology",
+      "definition": "The initial resistance of drilling fluid to flow, representing electrochemical attractive forces among particles in the fluid under dynamic conditions.",
+      "typical_units": "lb/100ft2, Pa"
+    },
+    {
+      "term": "PDC",
+      "full_name": "Polycrystalline Diamond Compact",
+      "category": "Drill Bit",
+      "definition": "A cutting element composed of a diamond table bonded to a tungsten carbide substrate, widely used on modern fixed-cutter rotary bits.",
+      "typical_units": "cutter size mm (e.g. 13mm, 16mm, 19mm)"
+    },
+    {
+      "term": "KOP",
+      "full_name": "Kick-Off Point",
+      "category": "Directional Drilling",
+      "definition": "The measured depth at which a vertical wellbore is deliberately deflected into a directional trajectory.",
+      "typical_units": "ft MD, m MD"
+    },
+    {
+      "term": "Shoe Track",
+      "full_name": "Casing Shoe Track",
+      "category": "Casing & Cementing",
+      "definition": "The length of casing between the guide shoe and the float collar, holding contaminated tail cement to prevent weak cement at shoe.",
+      "typical_units": "ft (typically 30-80 ft)"
+    },
+    {
+      "term": "Annular Velocity",
+      "full_name": "Annular Flow Velocity",
+      "category": "Hydraulics",
+      "definition": "The upward speed of drilling mud traveling through the space between the drill string and the borehole wall or casing.",
+      "typical_units": "ft/min, m/min"
+    },
+    {
+      "term": "Differential Sticking",
+      "full_name": "Differential Pressure Sticking",
+      "category": "Drilling Incident",
+      "definition": "Sticking of the drill string against a permeable formation caused by the overbalance pressure of the mud column holding the pipe into filter cake.",
+      "typical_units": "psi overbalance, contact area sq in"
+    },
+    {
+      "term": "Pack-off",
+      "full_name": "Wellbore Pack-Off",
+      "category": "Drilling Incident",
+      "definition": "Accumulation of drill cuttings or cavings around the drill string that chokes the annulus, causing sudden standpipe pressure spikes and lost returns.",
+      "typical_units": "SPP spike psi, flow loss %"
+    },
+    {
+      "term": "Twist-Off",
+      "full_name": "Drill Pipe / BHA Twist-Off",
+      "category": "Drilling Incident",
+      "definition": "Mechanical parting or catastrophic shear failure of the drill string due to excessive torque, fatigue, or cyclic stress.",
+      "typical_units": "ft-lbs torque, parting depth ft"
+    },
+    {
+      "term": "H2S",
+      "full_name": "Hydrogen Sulfide Gas",
+      "category": "Safety / Drilling Hazard",
+      "definition": "A highly toxic, flammable, and corrosive gas (sour gas) encountered in certain carbonate and clastic hydrocarbon formations.",
+      "typical_units": "ppm (parts per million)"
+    }
+  ]
+}

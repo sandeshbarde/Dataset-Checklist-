@@ -1,0 +1,11 @@
+{
+  "report_no": "DDR-001",
+  "well_name": "Volve 15/9-F-12",
+  "date": "2007-11-04",
+  "current_depth_md_m": 1845.0,
+  "daily_progress_m": 312.0,
+  "drilling_fluid": "Carbo-Sea OBM 1.35 sg",
+  "bha_summary": "12-1/4\" PDC Bit (Smith MDSi616) + Mud Motor + MWD/LWD (TeleScope/ecoScope) + 8\" Drill Collars",
+  "operations_summary": "Rotary drilled 12-1/4\" hole from 1533 m to 1845 m MD with ROP averaging 28 m/hr. WOB: 12-15 tonnes, RPM: 120, SPP: 220 bar, Flow Rate: 3200 lpm. Formations drilled: Hordaland Group claystone. Mud losses: 0. Gas background: 0.4% C1.",
+  "remarks": "Smooth drilling. Parameters optimized for vibration mitigation."
+}

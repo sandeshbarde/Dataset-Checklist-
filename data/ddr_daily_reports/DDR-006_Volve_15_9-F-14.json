@@ -1,0 +1,11 @@
+{
+  "report_no": "DDR-006",
+  "well_name": "Volve 15/9-F-14",
+  "date": "2008-04-10",
+  "current_depth_md_m": 1250.0,
+  "daily_progress_m": 420.0,
+  "drilling_fluid": "Spud Mud / Seawater Bentonite 1.15 sg",
+  "bha_summary": "17-1/2\" Smith PDC + Mud Motor + MWD",
+  "operations_summary": "Drilled 17-1/2\" top hole section from 830 m to 1250 m MD. Swept hole with 20 m3 high-vis pills every 100 m. ROP: 45 m/hr. Flow checked clean. Prepared to run 13-3/8\" casing.",
+  "remarks": "Zero NPT. Hole condition excellent."
+}

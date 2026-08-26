@@ -1,0 +1,11 @@
+WCR_NUMBER,WELL_NAME,API_PERMIT,COUNTY,LATITUDE,LONGITUDE,TOTAL_DEPTH_FT,COMPLETED_DATE,DRILLER_OPERATOR,TARGET_FORMATION,PDF_FILE
+WCR2021-008912,Kern River Horizon-01,04-029-21849,Kern,35.43821,-118.98942,2850,2021-04-02,Chevron USA Inc.,Kern River Sandstone,WCR2021-008912_Kern_River_Horizon-01.pdf
+WCR2021-009450,Midway-Sunset Deep-04,04-030-49201,Kern,35.18492,-119.56214,5420,2021-06-18,California Resources Corp,Tulare / Potter Sand,WCR2021-009450_Midway-Sunset_Deep-04.pdf
+WCR2022-003118,Bakersfield Monitor-12,04-029-99412,Kern,35.37329,-119.01871,650,2022-02-05,DWR Water Resources,Alluvial Valley Fill,WCR2022-003118_Bakersfield_Monitor-12.pdf
+WCR2022-008741,Vacaville Agro-07,04-095-10294,Solano,38.364235,-121.966742,820,2022-08-22,Solano Ag Water LLC,Tehama Formation,WCR2022-008741_Vacaville_Agro-07.pdf
+WCR2023-001290,Elk Hills Pioneer-22B,04-029-88123,Kern,35.26781,-119.45239,9200,2023-03-30,Occidental Petroleum,Stevens Sand / Monterey Shale,WCR2023-001290_Elk_Hills_Pioneer-22B.pdf
+WCR2023-005612,Belridge South-88,04-029-73419,Kern,35.48912,-119.68412,3100,2023-06-25,Aera Energy LLC,Belridge Diatomite,WCR2023-005612_Belridge_South-88.pdf
+WCR2024-001099,Lost Hills Crest-14,04-029-61209,Kern,35.6124,-119.69871,4200,2024-02-04,Chevron USA Inc.,Etchegoin / Reef Ridge,WCR2024-001099_Lost_Hills_Crest-14.pdf
+WCR2024-007823,Rio Bravo Deep-1,04-029-50912,Kern,35.4129,-119.1245,11450,2024-06-10,E&B Natural Resources,Vedder Sandstone,WCR2024-007823_Rio_Bravo_Deep-1.pdf
+WCR2024-010488,Coalinga Extension-09,04-019-33201,Fresno,36.1412,-120.3589,2450,2024-07-28,Sentinel Peak Resources,Temblor Sand,WCR2024-010488_Coalinga_Extension-09.pdf
+WCR2025-001788,Monte Vista Monitor-EW6,04-095-44102,Solano,38.364234,-121.966742,28,2025-01-27,Environmental Control Assoc,Quaternary Alluvium,WCR2025-001788_Monte_Vista_Monitor-EW6.pdf

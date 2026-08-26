@@ -1,0 +1,19 @@
+well_id,well_name,api_number,operator,county,state,latitude,longitude,elevation_ft,spud_date,completion_date,total_depth_ft,tvd_ft,formation,well_type,status
+WCR2021-008912,Kern River Horizon-01,04-029-21849,Chevron USA Inc.,Kern,CA,35.43821,-118.98942,842.0,2021-03-15,2021-04-02,2850,2850,Kern River Sandstone,Steam Injection / Producer,Active / Producing
+WCR2021-009450,Midway-Sunset Deep-04,04-030-49201,California Resources Corp,Kern,CA,35.18492,-119.56214,1150.0,2021-05-10,2021-06-18,5420,5210,Tulare / Potter Sand,Oil & Gas Producer,Active / Producing
+WCR2022-003118,Bakersfield Monitor-12,04-029-99412,DWR Water Resources,Kern,CA,35.37329,-119.01871,402.0,2022-01-20,2022-02-05,650,650,Alluvial Valley Fill,Groundwater Monitoring,Active Monitoring
+WCR2022-008741,Vacaville Agro-07,04-095-10294,Solano Ag Water LLC,Solano,CA,38.364235,-121.966742,175.0,2022-08-04,2022-08-22,820,820,Tehama Formation,Agricultural Irrigation,Active / Flowing
+WCR2023-001290,Elk Hills Pioneer-22B,04-029-88123,Occidental Petroleum,Kern,CA,35.26781,-119.45239,920.0,2023-02-14,2023-03-30,9200,8940,Stevens Sand / Monterey Shale,Directional Oil Producer,Active / Producing
+WCR2023-005612,Belridge South-88,04-029-73419,Aera Energy LLC,Kern,CA,35.48912,-119.68412,620.0,2023-06-01,2023-06-25,3100,3100,Belridge Diatomite,Cyclic Steam Producer,Active / Producing
+WCR2024-001099,Lost Hills Crest-14,04-029-61209,Chevron USA Inc.,Kern,CA,35.6124,-119.69871,460.0,2024-01-11,2024-02-04,4200,4180,Etchegoin / Reef Ridge,Waterflood Injector,Active / Injecting
+WCR2024-007823,Rio Bravo Deep-1,04-029-50912,E&B Natural Resources,Kern,CA,35.4129,-119.1245,350.0,2024-04-18,2024-06-10,11450,11200,Vedder Sandstone,Deep Exploration Well,Shut-in / Testing
+WCR2024-010488,Coalinga Extension-09,04-019-33201,Sentinel Peak Resources,Fresno,CA,36.1412,-120.3589,790.0,2024-07-02,2024-07-28,2450,2450,Temblor Sand,Heavy Oil Producer,Active / Producing
+WCR2025-001788,Monte Vista Monitor-EW6,04-095-44102,Environmental Control Assoc,Solano,CA,38.364234,-121.966742,182.0,2025-01-17,2025-01-27,28,28,Quaternary Alluvium,Environmental Monitor,Plugged / Abandoned
+USGS-NPRA-INIGOK-1,Inigok Test Well No. 1,50-089-20001,Husky Oil / USGS,North Slope,AK,70.004167,-153.085833,126.0,1978-06-12,1979-05-22,20102,20102,Lisburne Group / Sadlerochit,Wildcat Stratigraphic Test,Plugged & Abandoned
+USGS-NPRA-AWUNA-1,Awuna Test Well No. 1,50-089-20005,Husky Oil / USGS,North Slope,AK,69.156389,-155.568889,780.0,1980-01-05,1980-08-14,11200,11200,Nanushuk / Torok Formation,Stratigraphic Test,Plugged & Abandoned
+USGS-NPRA-WALAKPA-2,Walakpa Test Well No. 2,50-089-20011,Husky Oil / USGS,North Slope,AK,71.098889,-156.912222,45.0,1980-03-02,1980-05-19,3660,3660,Walakpa Sandstone,Gas Discovery Well,Completed Gas Well
+USGS-NPRA-TULAGEAK-1,Tulageak Test Well No. 1,50-089-20018,Husky Oil / USGS,North Slope,AK,71.214444,-155.801389,32.0,1981-01-15,1981-04-03,4015,4015,Pebble Shale / Kuparuk,Exploratory Test,Plugged & Abandoned
+VOLVE-15-9-F-12,Volve 15/9-F-12,NO-15/9-F-12,Equinor Energy AS,Block 15/9,North Sea (Norway),58.441928,1.884521,128.0,2007-10-18,2008-02-14,11348,9780,Hugin / Skagerrak Formation,Horizontal Oil Producer,Decommissioned
+VOLVE-15-9-F-14,Volve 15/9-F-14,NO-15/9-F-14,Equinor Energy AS,Block 15/9,North Sea (Norway),58.443105,1.88729,128.0,2008-04-02,2008-07-29,12450,9820,Hugin Formation,Horizontal Producer,Decommissioned
+VOLVE-15-9-F-5,Volve 15/9-F-5,NO-15/9-F-5,Equinor Energy AS,Block 15/9,North Sea (Norway),58.44211,1.88581,128.0,2007-06-15,2007-09-10,10500,9650,Hugin Sandstone,Water Injection Well,Decommissioned
+VOLVE-15-9-F-4,Volve 15/9-F-4,NO-15/9-F-4,Equinor Energy AS,Block 15/9,North Sea (Norway),58.4418,1.8839,128.0,2006-11-20,2007-03-05,10890,9710,Skagerrak Formation,Oil & Gas Producer,Decommissioned
